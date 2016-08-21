@@ -1,0 +1,6 @@
+{
+  "name": "Lamport-Signatures-Lua",
+  "tagline": "Lamport Singatures in Lua",
+  "body": "# lamport-signatures-lua\r\n\r\nThis is an attempt to create a lamport signature scheme based off of the description given at https://gist.github.com/karlgluck/8412807 .\r\n\r\nI chose to code this in Lua, because it is easy to read, and should be able to be ported to other languages relatively easy.\r\n\r\n> Currently, this version uses a **non-standard** hash function, that **needs to be replaced** with an appropriate cryptographic hash function. My suggestion would be to use SHA-3 [Keccak](http://keccak.noekeon.org/).\r\n\r\nAll comments, questions, and hate-mail are accepted.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
